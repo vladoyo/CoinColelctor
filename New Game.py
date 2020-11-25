@@ -2,7 +2,7 @@ import arcade
 
 SCREEN_WIDTH = 1000
 SCREEN_HEIGHT = 650
-SCREEN_TITLE = "Platformer"
+SCREEN_TITLE = "CoinCollector"
 
 CHARACTER_SCALING = 1
 TILE_SCALING = 0.5
